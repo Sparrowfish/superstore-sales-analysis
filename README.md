@@ -24,7 +24,7 @@ The dataset (`Sample - Superstore.csv`) includes sales transactions, product cat
 ## Dataset
 
 - Name: `Sample - Superstore.csv`  
-- Size: ~550 KB 
+- Size: ~2.18 MB 
 - Columns: Order Date, Category, Sub-Category, Region, Sales, Profit, Discount, Customer ID, and more  
 - Source: [Kaggle - Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
