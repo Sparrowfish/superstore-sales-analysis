@@ -19,7 +19,16 @@ The dataset (`Sample - Superstore.csv`) includes sales transactions, product cat
 - Pandas  
 - Matplotlib  
 - Seaborn  
-- Jupyter Notebook  
+- Jupyter Notebook
+
+## Dataset
+
+- Name: `Sample - Superstore.csv`  
+- Size: ~550 KB 
+- Columns: Order Date, Category, Sub-Category, Region, Sales, Profit, Discount, Customer ID, and more  
+- Source: [Kaggle - Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+
+> A copy of the dataset is included in this repository for convenience.  
 
 ## Project Structure
 
